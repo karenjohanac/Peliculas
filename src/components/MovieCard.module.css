@@ -1,0 +1,8 @@
+.movieCard{
+    list-style: none;   
+}
+.movieCard:hover{
+    opacity: 0.5;
+    transform: translateY(-20px);
+    transition: 0.5s;
+}
